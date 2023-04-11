@@ -7,4 +7,5 @@ def main(a):
     Returns:
         float: the result
     '''
-    return
+    return round(a,3)
+print(main(-52525.258635))
